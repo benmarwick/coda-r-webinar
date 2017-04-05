@@ -3,10 +3,6 @@
 
 # assume we have R, RStudio installed
 
-# while we intro, install some packages
-
-# install.packages(c("readr", "readxl", "dplyr", "purrr", "tidyr", "ggplot2", "scales", "ggforce","ggpmisc", "plotly", "broom", "FSA"))
-
 # this tutorial is based on 
 # - http://www.datacarpentry.org/R-ecology-lesson/
 # - http://swcarpentry.github.io/r-novice-gapminder/
