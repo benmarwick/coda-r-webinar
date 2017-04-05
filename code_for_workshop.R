@@ -60,7 +60,7 @@ install.packages("readxl")
 # Importing tabular data -----------------------------
 #  ---------------------------------------------------
 
-#- working directory
+#- working directory RStudio Projects
 #-- we set with Session -> Set Working Directory -> To source file location
 
 #- Import CSV and Excel files, tab-complete!
